@@ -1,5 +1,5 @@
 # SKILL CRAFT TECHNOLOGY INTERNSHIP
-# SCT_DS_02
+# task_02
 
 # 🚢 Titanic EDA Project
 This project performs Exploratory Data Analysis (EDA) on the famous Titanic dataset, identifying key patterns and visual insights into passenger survival.
